@@ -10,5 +10,5 @@ The device is built with user-friendliness and portability in mind. Its software
 
 My role in this project included designing the diagnostic logic, developing the grading system, and incorporating classification strategies to account for image distortions. I also contributed to the system architecture, validation strategy, and potential pathways for turning this into a clinically usable tool. This work bridges the gap between traditional manual diagnostic methods and next-generation optical health technologies.
 
-In future development, this pupillometer can be adapted for mobile or wearable applications, integrated with machine learning models for real-time decision-making, and validated with larger patient datasets for clinical use. The ultimate goal is to make early diagnosis of optic nerve and retinal disorders more accessible, accurate, and scalable.
+In future development, the ultimate goal is to make early diagnosis of optic nerve and retinal disorders more accessible, accurate, and scalable.
 
